@@ -1,0 +1,8 @@
+{
+    "app_name": "My Calculator",
+    "version": "1.0",
+    "settings": {
+        "debug_mode": true,
+        "max_operations": 100
+    }
+}
